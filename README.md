@@ -47,6 +47,15 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
+### Truthtable:
+Half Adder:
+
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/89b54c4d-9cb6-43fb-a920-7f9ad7bdf65d)
+
+Half Subtractor:
+
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/905b21d8-11ac-44c3-9b34-05b9b5cfc77e)
+
 
 **Program:**
 
@@ -75,10 +84,22 @@ and(borrow,adash,b);
 endmodule
 ```
 **RTL Schematic**
-![Screenshot 2024-04-06 133946](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/5011e7df-16ad-4c02-980a-3eebaf0a861e)
+
+Half Adder:
+
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/c4fdd392-a801-4e22-bc0b-2aeff3cad51f)
+
+Half Subtractor:
+
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/f9deaf9c-cd81-4af4-9af3-0229f84cf94d)
+
 
 **Output/TIMING Waveform**
-![Screenshot 2024-04-06 134434](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/d598d6c7-8057-4c86-8925-0e270b232768)
+Half Adder:
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/c154e84f-755e-421f-879b-e61e4ac00458)
+
+Half Subtractor:
+![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/ea75bbbb-2b3a-4a39-85dd-a3c91c2422f7)
 
 **Result:**
 Thus, the Half-Adder-and-Half Subtractor-circuit is implemented successfully.
