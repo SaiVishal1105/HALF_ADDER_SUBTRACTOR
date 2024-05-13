@@ -74,7 +74,7 @@ endmodule
 ```
 ```
 2.Half subtractor
-module exp4a(a,b,diff,borrow);
+module Half_subtractor(a,b,diff,borrow);
 input a,b;
 output diff,borrow;
 wire adash;
@@ -87,14 +87,16 @@ endmodule
 
 Half Adder:
 
-![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/c4fdd392-a801-4e22-bc0b-2aeff3cad51f)
+![Screenshot 2024-05-13 182923](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/cd691b1c-7b14-400f-879a-69a4720040d7)
+
 
 Half Subtractor:
 
-![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/f9deaf9c-cd81-4af4-9af3-0229f84cf94d)
+![Screenshot 2024-05-13 183422](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/93a4a2e9-026e-4dc4-a01a-345e99bdb95d)
 
 
 **Output/TIMING Waveform**
+
 Half Adder:
 ![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/c154e84f-755e-421f-879b-e61e4ac00458)
 
@@ -102,4 +104,5 @@ Half Subtractor:
 ![image](https://github.com/SaiVishal1105/HALF_ADDER_SUBTRACTOR/assets/145742557/ea75bbbb-2b3a-4a39-85dd-a3c91c2422f7)
 
 **Result:**
+
 Thus, the Half-Adder-and-Half Subtractor-circuit is implemented successfully.
